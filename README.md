@@ -33,7 +33,7 @@ Follow these steps to get started with the Sum of Odd Numbers Calculator:
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/sum-odd-numbers-calculator.git
+   git clone https://github.com/mahditalaldev/sum-odd-numbers-calculator.git
    cd sum-odd-numbers-calculator
    ```
 
